@@ -1,5 +1,6 @@
 # 🐳 Chuck Norris Joke API
 ![CI Status](https://github.com/gitcubestella/chuck-joke-api/actions/workflows/docker-build.yml/badge.svg)
+
 Ein Docker-basiertes Python-Flask-Projekt, das zufällige Chuck-Norris-Witze von einer öffentlichen API zurückliefert – automatisch gebaut & deployed via GitHub Actions.
 
 ---
